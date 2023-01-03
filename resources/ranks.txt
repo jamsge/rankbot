@@ -1,0 +1,19 @@
+// {return 0===n?zU.none:n5?zU.pending:e
+// =2191.75&&t?zU.grandmaster:e
+// =2350?zU.master3:e
+// =2275?zU.master2:e
+// =2191.75?zU.master1:e
+// =2136.28?zU.diamond3:e
+// =2073.67?zU.diamond2:e
+// =2003.92?zU.diamond1:e
+// =1927.03?zU.plat3:e
+// =1843?zU.plat2:e
+// =1751.83?zU.plat1:e
+// =1653.52?zU.gold3:e
+// =1548.07?zU.gold2:e
+// =1435.48?zU.gold1:e
+// =1315.75?zU.silver3:e
+// =1188.88?zU.silver2:e
+// =1054.87?zU.silver1:e
+// =913.72?zU.bronze3:e
+// =765.43?zU.bronze2:zU.bronze1}

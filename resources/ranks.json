@@ -1,0 +1,26 @@
+{
+    "orderedRanks": [
+        {"ratingMin": 2350, "name": "Master 3", "emoji":"<>", "imageLink":"https://i.imgur.com/N4n0pu1.png", "color": "0x6847BA"},
+        {"ratingMin": 2275, "name": "Master 2", "emoji":"<>", "imageLink":"https://i.imgur.com/ysknmqR.png", "color": "#6847BA"},
+        {"ratingMin": 2191.75, "name": "Master 1", "emoji":"<>", "imageLink":"https://i.imgur.com/s1GhayH.png", "color": "#6847BA"},
+        {"ratingMin": 2136.28, "name": "Diamond 3", "emoji":"<>", "imageLink":"https://i.imgur.com/vs5h674.png", "color": "#5DDFF4"},
+        {"ratingMin": 2073.67, "name": "Diamond 2", "emoji":"<>", "imageLink":"https://i.imgur.com/OioA6JO.png", "color": "#5DDFF4"},
+        {"ratingMin": 2003.92, "name": "Diamond 1", "emoji":"<>", "imageLink":"https://i.imgur.com/pZtg7GP.png", "color": "#5DDFF4"},
+        {"ratingMin": 1927.03, "name": "Platinum 3", "emoji":"<>", "imageLink":"https://i.imgur.com/eqs2ZJ3.png", "color": "#91E8E0"},
+        {"ratingMin": 1843, "name": "Platinum 2", "emoji":"<>", "imageLink":"https://i.imgur.com/5GS1Dz8.png", "color": "#91E8E0"},
+        {"ratingMin": 1751.83, "name": "Platinum 1", "emoji":"<>", "imageLink":"https://i.imgur.com/xGRCU89.png", "color": "#91E8E0"},
+        {"ratingMin": 1653.52, "name": "Gold 3", "emoji":"<>", "imageLink":"https://i.imgur.com/fe3MNub.png", "color": "#F6A51E"},
+        {"ratingMin": 1548.07, "name": "Gold 2", "emoji":"<>", "imageLink":"https://i.imgur.com/AmStSo3.png", "color": "#F6A51E"},
+        {"ratingMin": 1435.48, "name": "Gold 1", "emoji":"<>", "imageLink":"https://i.imgur.com/5eVHOmC.png", "color": "#F6A51E"},
+        {"ratingMin": 1315.75, "name": "Silver 3", "emoji":"<>", "imageLink":"https://i.imgur.com/Dt6egkf.png", "color": "#B5A5B7"},
+        {"ratingMin": 1188.88, "name": "Silver 2", "emoji":"<>", "imageLink":"https://i.imgur.com/1eHipgs.png", "color": "#B5A5B7"},
+        {"ratingMin": 1054.87, "name": "Silver 1", "emoji":"<>", "imageLink":"https://i.imgur.com/oNY5CLN.png", "color": "#B5A5B7"},
+        {"ratingMin": 913.72, "name": "Bronze 3", "emoji":"<>", "imageLink":"https://i.imgur.com/bWXv8e0.png", "color": "#E06A36"},
+        {"ratingMin": 765.43, "name": "Bronze 2", "emoji":"<>", "imageLink":"https://i.imgur.com/EmJ6lw6.png", "color": "#E06A36"},
+        {"ratingMin": 0, "name": "Bronze 1", "emoji":"<>", "imageLink":"https://i.imgur.com/GVQcI13.png", "color": "#E06A36"}
+    ],
+    "unorderedRanks" : {
+        "Grandmaster":{"ratingMin": 2191.75, "name": "Grandmaster", "emoji":"<>", "imageLink":"https://i.imgur.com/W3q3YeV.png", "color": "#E51D13"},
+        "Unranked": {"ratingMin": -1, "name": "Unranked", "emoji":"<>", "imageLink":"https://i.imgur.com/FxhpND3.png",  "color": "#000000"}
+    }
+}
